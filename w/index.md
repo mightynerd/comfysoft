@@ -107,7 +107,7 @@ nice ... yeah
 ### OCCT
 
 ### Steam
-for games
+for games XD
 
 ### VeraCrypt
 feel safe
