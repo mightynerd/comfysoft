@@ -92,8 +92,7 @@ free and ez to get use to
 ## Mail  
 
 ### Thunderbird
-a little nice app xD
-
+Thunderbird is a free e-mail application developed by the Mozilla Corporation.
 
 ## IRC
 
@@ -103,6 +102,7 @@ nice ... yeah
 ## Good to have
 
 ### Mediainfo
+MediaInfo is a open source software that display the tag data for video and audio files
 
 ### OCCT
 
@@ -110,4 +110,6 @@ nice ... yeah
 for games XD
 
 ### VeraCrypt
-feel safe
+VeraCrypt is a free encryption software 
+
+### livestreamer
