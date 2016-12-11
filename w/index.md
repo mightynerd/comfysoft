@@ -4,7 +4,7 @@ title: Windows
 permalink: /w/
 ---
 
-## Browsers
+## Web Browsers
 
 ### Firefox
 Very customizable but slower than Chromium, especially with many tabs and
@@ -18,7 +18,7 @@ The free and open source base Google Chrome is built upon. Very fast with many e
 such as auto update, built-in Adobe Flash or support for non-free media codecs,
 some of which can be installed separatly.
 
-## Editors
+## Text Editors
 
 ### Atom
 Free and open source using the Electron GUI framework with a modern look and
@@ -56,7 +56,7 @@ support for additional audio formats, add audio filters or other functionality.
 ### Spotify
 XDDDDDDDD
 
-## Image Editor
+## Graphic Editors
 
 ### Krita
 Good for painting and you know
@@ -73,7 +73,7 @@ For RAW
 ### Inkscape
 Nice and free for vectors
 
-## Video Editor
+## Video Tools
 
 ### OBS (Open Broadcaster Software)
 Free and nice
@@ -84,12 +84,17 @@ nice open source video trancoder
 ### Adobe After Effects
 nice but no free
 
-## Torrents
+### Mediainfo
+Free and open source tool for displaying specifications of video and audio files. It displays data such as video resolution,
+codec, video framerate, bitrate, audio sample rate, audio bit deph and mutch more. Usually configured to appear as a
+right click option on video and audio files.
+
+## Torrent Clients
 
 ### Qbittorrent
 free and ez to get use to
 
-## Mail  
+## E-Mail Clients  
 
 ### Thunderbird
 Thunderbird is a free e-mail application developed by the Mozilla Corporation.
@@ -98,11 +103,6 @@ Thunderbird is a free e-mail application developed by the Mozilla Corporation.
 
 ### HEXChat
 nice ... yeah
-
-## Good to have
-
-### Mediainfo
-MediaInfo is a open source software that display the tag data for video and audio files
 
 ### OCCT
 
