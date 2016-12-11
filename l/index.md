@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Linux
+title: comfysoft
 permalink: /l/
 ---
 
-# Linux Programs
-
-## Window Manager
+## Window Managers
 
 ### i3
 i3
@@ -14,15 +12,15 @@ i3
 ### dwm
 dwm
 
-## Display Manager
+## Desktop Environments
 
-## GNOME
+### GNOME
 GNOME 3
 
-## Xfce
+### Xfce
 Xfce
 
-## Browsers
+## Web Browsers
 
 ### Firefox
 Very customizable but slower than Chromium, especially with many tabs and
@@ -36,7 +34,7 @@ The free and open source base Google Chrome is built upon. Very fast with many e
 such as auto update, built-in Adobe Flash or support for non-free media codecs,
 some of which can be installed separatly.
 
-## Editors
+## Text Editors
 
 ### Atom
 Free and open source using the Electron GUI framework with a modern look and build-in git support. Very customizable with themes and plug-ins which can be installed from within the editor.
@@ -72,7 +70,7 @@ For RAW
 ### Inkscape
 Nice and free for vectors
 
-## Video Editor
+## Video Tools
 
 ### OBS (Open Broadcaster Software)
 Free and nice
@@ -80,7 +78,7 @@ Free and nice
 ### HandBrake
 nice open source video trancoder
 
-## Torrents
+## Torrent Clients
 
 ### Transmission
 free and ez to get use to
@@ -88,7 +86,7 @@ free and ez to get use to
 ### Deluge
 Deluge Deluge
 
-## Mail  
+## E-Mail Clients  
 
 ### Thunderbird
 Thunderbird is a free e-mail application developed by the Mozilla Corporation.
