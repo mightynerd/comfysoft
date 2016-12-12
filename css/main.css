@@ -1,9 +1,16 @@
 body {
     margin: 60px auto;
-    width: 50%;
+    width: 1000px;
     background-color: rgb(48, 48, 48);
     color: rgb(170, 170, 170);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+@media screen and (max-width: 1250px) {
+    
+    body {
+       width: 80%
+    }
 }
 
 nav ul, footer ul {
