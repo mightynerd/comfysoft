@@ -7,7 +7,7 @@ body {
 }
 
 @media screen and (max-width: 1250px) {
-    
+
     body {
        width: 80%
     }
