@@ -62,16 +62,16 @@ XDDDDDDDD
 Good for painting and you know
 
 ### Gimp
-Free and good.
+FOSS raster graphics editor, almost as good as Photoshop featuring advanced multilayered editing, selection, filters and effects. Can be extended using plugins. The latest development improves the user interface and adds initial OpenCL hardware acceleration.
 
 ### Photoshop
 Just twearks, but not so free
 
 ### RAW Therarapee
-For RAW
+FOSS Raw image processing program written in C++ using GTK+. Features everything you would expect from a raw processor including browsing and non-destructive RAW editing with many advanced options.
 
 ### Inkscape
-Nice and free for vectors
+FOSS full-featured vector graphics editing program with support for many vector formats.
 
 ## Video Tools
 
@@ -79,7 +79,7 @@ Nice and free for vectors
 Free and nice
 
 ### HandBrake
-nice open source video trancoder
+Easy to use FOSS video transcoder that focuses only on the best modern encoders with optional advanced encoding settings. Supports the MP4 and Matroska MKV containers. The supported video codecs are H.265 (x265), H.264 (x264), VP8 (libvpx), Theora (libtheora) and mpeg-2. For audio, AAC/HE-AAC (libfdk-aac, Core Audio and LibAV AAC), Vorbis (libvorbis), AC-3, FLAC (libflac) and passthrough of most audio codecs can be selected. Hardware accelerated H.264 and H.265 encoding is supported through Intel QuickSync. Unfortunatly, only the LibAV AAC encoder is supported on Windows because of licencing issues which lacks in quality compared to libdfk-aac (altough you can compile Handbrake yourself with fdk-aac). Code Audio is only available on OS X.
 
 ### Adobe After Effects
 nice but no free
