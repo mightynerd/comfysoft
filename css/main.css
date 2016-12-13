@@ -1,8 +1,8 @@
 body {
     margin: 60px auto;
     width: 1000px;
-    background-color: rgb(48, 48, 48);
-    color: rgb(170, 170, 170);
+    background-color: #222831;
+    color: #B2B2B2;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -32,22 +32,24 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #EEEEEE;
 }
 a:hover {
     text-decoration: none;
-    color: rgb(210, 210, 210);
+    color: #00ADB5;
 }
 h1 {
     font-size: 2em;
 }
 h2 {
     font-size: 1.3em;
-    text-decoration: underline;
+    //text-decoration: underline;
+    color: #00ADB5;
     text-decoration-color: rgb(100, 100, 100);
 }
 h3 {
     font-size: 1.1em;
+    color: #EEEEEE;
 }
 p {
     font-size: 1.0em;
