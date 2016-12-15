@@ -73,10 +73,18 @@ FOSS Raw image processing program written in C++ using GTK+. Features everything
 ### Inkscape
 FOSS full-featured vector graphics editing program with support for many vector formats.
 
+## Audio Tools
+
+### Audacity
+FOSS multi-track audio editing and recording program. Includes various audio effects/filters such as an equalizer, reverb, pitch shift and normalize. Supports VST effects and an audio processing scripting language called Nyquist which can be used to create custom effects. It can import and export audio formats such as WAV, FLAC and OGG. Other formats (MP3, AAC, AC-3) require external encoders.
+
+### audio-output-recorder
+FOSS written in C# for recording audio from any output device (speaker or headphone output) using WASAPI. Recorded files can be downsampled to 44,1kHz/16bit or transcoded to MP3 or OGG Vorbis.
+
 ## Video Tools
 
 ### OBS (Open Broadcaster Software)
-Free and nice
+FOSS program for video live streaming and recording. Captures video from capture devices, desktop or games, features advanced multi-layered scene composition and multi-source audio mixing. Encodes H.264 video using x264, Intel QuickSync, Nvidia NVENK or AMD VCE. Streams using the RTPM protocol to services such as Twitch or Youtube. The project is divided into OBS Classic which is the original Windows-only version and the multi-platform OBS Studio which is now the main project.
 
 ### HandBrake
 Easy to use FOSS video transcoder that focuses only on the best modern encoders with optional advanced encoding settings. Supports the MP4 and Matroska MKV containers. The supported video codecs are H.265 (x265), H.264 (x264), VP8 (libvpx), Theora (libtheora) and mpeg-2. For audio, AAC/HE-AAC (libfdk-aac, Core Audio and LibAV AAC), Vorbis (libvorbis), AC-3, FLAC (libflac) and passthrough of most audio codecs can be selected. Hardware accelerated H.264 and H.265 encoding is supported through Intel QuickSync. Unfortunatly, only the LibAV AAC encoder is supported on Windows because of licencing issues which lacks in quality compared to libdfk-aac (altough you can compile Handbrake yourself with fdk-aac). Code Audio is only available on OS X.
