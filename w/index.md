@@ -84,7 +84,7 @@ FOSS written in C# for recording audio from any output device (speaker or headph
 ## Video Tools
 
 ### OBS (Open Broadcaster Software)
-FOSS program for video live streaming and recording. Captures video from capture devices, desktop or games, features advanced multi-layered scene composition and multi-source audio mixing. Encodes H.264 video using x264, Intel QuickSync, Nvidia NVENK or AMD VCE. Streams using the RTPM protocol to services such as Twitch or Youtube. The project is divided into OBS Classic which is the original Windows-only version and the multi-platform OBS Studio which is now the main project.
+FOSS program for video live streaming and recording. Captures video from capture devices, desktop or games, features advanced multi-layered scene composition and multi-source audio mixing. Encodes H.264 video using x264, Intel QuickSync, Nvidia NVENC or AMD VCE. Streams using the RTPM protocol to services such as Twitch or Youtube. The project is divided into OBS Classic which is the original Windows-only version and the multi-platform OBS Studio which is now the main project.
 
 ### HandBrake
 Easy to use FOSS video transcoder that focuses only on the best modern encoders with optional advanced encoding settings. Supports the MP4 and Matroska MKV containers. The supported video codecs are H.265 (x265), H.264 (x264), VP8 (libvpx), Theora (libtheora) and mpeg-2. For audio, AAC/HE-AAC (libfdk-aac, Core Audio and LibAV AAC), Vorbis (libvorbis), AC-3, FLAC (libflac) and passthrough of most audio codecs can be selected. Hardware accelerated H.264 and H.265 encoding is supported through Intel QuickSync. Unfortunatly, only the LibAV AAC encoder is supported on Windows because of licencing issues which lacks in quality compared to libdfk-aac (altough you can compile Handbrake yourself with fdk-aac). Code Audio is only available on OS X.
@@ -97,6 +97,14 @@ Free and open source tool for displaying specifications of video and audio files
 codec, video framerate, bitrate, audio sample rate, audio bit deph and mutch more. Usually configured to appear as a
 right click option on video and audio files.
 
+## Other Tools
+
+### 7-Zip
+FOSS files archiver that supports various compression formats such as ZIP, RAR (extraction only), BZIP2, TAR, GZIP and ISO with main focus on the 7z format. The 7z format offers one of the best compression ratios, the developer claims it to be 30-70% better than ZIP. 7z and GZIP files can be encrypted using AES-256 encryption and the programs integrates well with Windows shell (right click on file menu).
+
+### ShareX
+FOSS screenshot program written in C#. It is configured by creating task that can for example take a screenshot of a selected region, open it in the built-in image editor and then upload to a image host such as imgur with the URL copied to the clipboard automatically. A task can be triggered using a global hotkey while the program is running in the background. Apart from uploading screenshots, the program supports uploading of images to multiple image hosting services, regular files to file hosting services and text to text hosts. The program can also record screen regions and audio with advanced encoding settings and features various tools such as a color picker, file hash checker and QR code generator.
+
 ## Torrent Clients
 
 ### Qbittorrent
@@ -107,7 +115,7 @@ free and ez to get use to
 ### Thunderbird
 Thunderbird is a free e-mail application developed by the Mozilla Corporation.
 
-## IRC
+## IRC Clients
 
 ### HEXChat
 nice ... yeah
