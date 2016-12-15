@@ -38,7 +38,7 @@ multiple codec packs such as CCCP or K-Lite which can be downloaded to extend
 it's format support to almost any existing format.
 
 ### MPV
-Free and open source fork of mplayer and MPlayer focused on CLI and high quality
+Free and open source fork of mplayer and MPlayer2 focused on CLI and high quality
 output. It is fully controllable using a keyboard but offers an optional and
 minimalistic OSC. Very customizable (including the OSC) through configuration
 files and LUA scripts. Supports playback from various streaming websites
@@ -80,6 +80,9 @@ FOSS multi-track audio editing and recording program. Includes various audio eff
 
 ### audio-output-recorder
 FOSS written in C# for recording audio from any output device (speaker or headphone output) using WASAPI. Recorded files can be downsampled to 44,1kHz/16bit or transcoded to MP3 or OGG Vorbis.
+
+### LMMS
+FOSS digital audio workstation with a similar interface to FL Studio. It features built-in synthesizers and effects, support for VST and LADSPA plugins, a piano roll, sequencer and FX mixer. Supports MIDI devices and projects can be exported to WAV, OGG or MIDI formats.
 
 ## Video Tools
 
