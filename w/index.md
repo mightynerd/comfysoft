@@ -92,6 +92,9 @@ FOSS program for video live streaming and recording. Captures video from capture
 ### HandBrake
 Easy to use FOSS video transcoder that focuses only on the best modern encoders with optional advanced encoding settings. Supports the MP4 and Matroska MKV containers. The supported video codecs are H.265 (x265), H.264 (x264), VP8 (libvpx), Theora (libtheora) and mpeg-2. For audio, AAC/HE-AAC (libfdk-aac, Core Audio and LibAV AAC), Vorbis (libvorbis), AC-3, FLAC (libflac) and passthrough of most audio codecs can be selected. Hardware accelerated H.264 and H.265 encoding is supported through Intel QuickSync. Unfortunatly, only the LibAV AAC encoder is supported on Windows because of licencing issues which lacks in quality compared to libdfk-aac (altough you can compile Handbrake yourself with fdk-aac). Code Audio is only available on OS X.
 
+### Davinci Resolve
+Proprietary professional non-linear editing program with a very advanced color corrector. The free (as in free beer) version can not edit video larger than 4K, doesn't support 3D, multiple GPUs and doesn't feature team collaboration. Other than that, this is a full featured editing workstation.
+
 ### Adobe After Effects
 nice but no free
 
@@ -107,6 +110,9 @@ FOSS files archiver that supports various compression formats such as ZIP, RAR (
 
 ### ShareX
 FOSS screenshot program written in C#. It is configured by creating task that can for example take a screenshot of a selected region, open it in the built-in image editor and then upload to a image host such as imgur with the URL copied to the clipboard automatically. A task can be triggered using a global hotkey while the program is running in the background. Apart from uploading screenshots, the program supports uploading of images to multiple image hosting services, regular files to file hosting services and text to text hosts. The program can also record screen regions and audio with advanced encoding settings and features various tools such as a color picker, file hash checker and QR code generator.
+
+### VeraCrypt
+FOSS file/device encryption program based on TrueCrypt. Can create encrypted file containers, encrypt entire storage partitions or even the system disk with pre-boot authentication. Encrypts using AES, Serpent and Twofish including any nested combination of those three (like AES inside Twofish inside Serpent) and SHA-512, SHA-256 or Whirpool hashing algorithms. The program focuses on maximum security with good performance and supports hardware accelerated AES encryption/decryption with a built-in benchmark for the different algorithms. A hidden volume can be created in order to protect your encrypted data even if you're forced to reveal your password.
 
 ## Torrent Clients
 
@@ -126,9 +132,6 @@ nice ... yeah
 ### OCCT
 
 ### Steam
-for games XD
-
-### VeraCrypt
-VeraCrypt is a free encryption software 
+for games Xdd 
 
 ### livestreamer
