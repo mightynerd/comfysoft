@@ -18,7 +18,7 @@ The free and open source base Google Chrome is built upon. Very fast with many e
 such as auto update, built-in Adobe Flash or support for non-free media codecs,
 some of which can be installed separatly.
 
-## Text Editors
+## Text Tools
 
 ### Atom
 Free and open source using the Electron GUI framework with a modern look and
@@ -27,6 +27,9 @@ build-in git support. Very customizable with themes and plug-ins which can be in
 ### Notepad++
 Free and open source written in C++ which focuses on performance and small program
 size. It is therefore very lightweight altough still extensible.
+
+### TeXstudio
+FOSS LateX writing environment with many advanced tools and an integrated preview window. Features syntax highlitning, spell checking and reference management.
 
 ## Video Players
 
@@ -114,10 +117,13 @@ FOSS screenshot program written in C#. It is configured by creating task that ca
 ### VeraCrypt
 FOSS file/device encryption program based on TrueCrypt. Can create encrypted file containers, encrypt entire storage partitions or even the system disk with pre-boot authentication. Encrypts using AES, Serpent and Twofish including any nested combination of those three (like AES inside Twofish inside Serpent) and SHA-512, SHA-256 or Whirpool hashing algorithms. The program focuses on maximum security with good performance and supports hardware accelerated AES encryption/decryption with a built-in benchmark for the different algorithms. A hidden volume can be created in order to protect your encrypted data even if you're forced to reveal your password.
 
+### Evince
+FOSS simple and lightweight document viewer for PDF, Postscript, djvu, XPS and more formats. Made for the Gnome desktop but works well on Windows.
+
 ## Torrent Clients
 
-### Qbittorrent
-free and ez to get use to
+### qBittorrent
+FOSS torrent client with an easy to use interface, similar to µTorrent.
 
 ## E-Mail Clients  
 
