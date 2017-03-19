@@ -13,10 +13,17 @@ to use their synchronization feature. Falls often behind when it comes
 to newer technologies which can be solved by running the Nighlty builds
 at the expence of lower stability.
 
+### Firefox Nightly
+A less stable but more up-to-date version of Firefox. Ususally faster than the stable version since it implements newer technologies such as multi-process tabs. 
+
 ### Chromium
-The free and open source base Google Chrome is built upon. Very fast with many extentions altough not as customizable as Firefox. Not bound to Google as mutch as Chrome (which probably is the main reason people run Chromium) and it also lacks some components
-such as auto update, built-in Adobe Flash or support for non-free media codecs,
-some of which can be installed separatly.
+The free and open source base Google Chrome is built upon. Very fast with many extentions altough not as customizable as Firefox. Not bound to Google as much as Chrome (which probably is the main reason people run Chromium) and it also lacks some components such as auto update, built-in Adobe Flash or support for non-free media codecs, some of which can be installed separatly.
+
+### Iridium
+A Chromium fork that focuses on security and privacy. Works good as an "ungoogled" alternative to Chrome or even Chromium.
+
+### Vivaldi
+A proprietary freeware browser based on the Blink engine. Very customizable interface, support for Chrome plugins but closed source.
 
 ## Text Tools
 
