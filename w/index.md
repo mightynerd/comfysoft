@@ -108,6 +108,9 @@ right click option on video and audio files.
 
 ## Other Tools
 
+### Q-Dir
+Closed source freeware file manager featuring multiple tiled directory views with tabs. It is very customizable and has built-in ZIP and RAR archive aswell as FTP support. Can be installed and used as a Explorer replacement or as a standalone portable program.
+
 ### 7-Zip
 FOSS files archiver that supports various compression formats such as ZIP, RAR (extraction only), BZIP2, TAR, GZIP and ISO with main focus on the 7z format. The 7z format offers one of the best compression ratios, the developer claims it to be 30-70% better than ZIP. 7z and GZIP files can be encrypted using AES-256 encryption and the programs integrates well with Windows shell (right click on file menu).
 
